@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sups-vamp
+- 👋 Hi, I’m Supriya Das a.k.a @sups-vamp 
 - 👀 I’m interested in Front-End Designing/Development!
 - 🌱 I’m currently learning React JS!
 - 📫 How to reach me -
