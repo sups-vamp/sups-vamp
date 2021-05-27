@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS!
 - 📫 How to reach me -
      - Navigate to https://supriyadas.netlify.app/ for my details 😃
-     If you are too lazy to open the above mentioned site, here are some links:
+     If you are too lazy to open this site, here are some links:
      - LinkedIn : https://www.linkedin.com/in/supriya-das-b6b091160/
      - Instagram : https://www.instagram.com/exquisite_lives/
      - Facebook : https://www.facebook.com/supsvamp
