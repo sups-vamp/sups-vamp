@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Supriya Das a.k.a @sups-vamp 
 - 👀 I’m interested in Front-End Designing/Development!
-- 🌱 I’m currently learning React JS!
-- 📫 How to reach me -
+- 🌱 My technical skills include
+     - HTML
+     - CSS/SASS
+     - JS
+     - React
+     - Bootstrap
+- 📫 Reach out to me -
      - Navigate to https://supriyadas.netlify.app/ for my details 😃
      If you are too lazy to open this site, here are some links:
      - LinkedIn : https://www.linkedin.com/in/supriya-das-b6b091160/
